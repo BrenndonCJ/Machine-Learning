@@ -1,5 +1,6 @@
 # Analise de dados do Titanic
  Historico de resultados:
+ 
     Primeiro modelo obteve = 0.76555 de score
     
     Segundo modelo obteve = 0.77990 de score
@@ -15,6 +16,7 @@ Competição do kaggle: Titanic - Machine Learning from Disaster
 
 # Titanic data analysis
  Results history:
+ 
     First model obtained score = 0.76555
     
     Second model obtained score = 0.77990
