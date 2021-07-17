@@ -3,4 +3,4 @@
  
 = [Analise de dados do Titanic](Analise_dados_titanic/)
 
-= Detecção de Tweets que falam sobre algum desastre
+= [Detecção de Tweets que falam sobre algum desastre](Processamento_Linguagem_Natural/Disaster_Tweets)
