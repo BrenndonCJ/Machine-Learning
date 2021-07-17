@@ -1,5 +1,7 @@
 # Detecção de Tweets que falam sobre algum desastre
 
+### [Desafio Natural Language Processing with Disaster Tweets kaggle](https://www.kaggle.com/c/nlp-getting-started)
+
 Historico de resultados:
  
     Primeiro modelo obteve = 0.79466 de score

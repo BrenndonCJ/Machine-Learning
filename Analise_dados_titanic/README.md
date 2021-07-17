@@ -1,4 +1,7 @@
 # Analise de dados do Titanic
+
+### [Desafio Titanic kaggle](https://www.kaggle.com/c/titanic)
+
  Historico de resultados:
  
     Primeiro modelo obteve = 0.76555 de score
