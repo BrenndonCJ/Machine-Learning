@@ -5,7 +5,7 @@
     
     Segundo modelo obteve = 0.77990 de score
 
-    [Ultimo modelo submetido = 0.77990](Analise de dados TITANIC.ipynb)
+    [Ultimo modelo submetido = 0.77990](Analise_dados_titanic/Analise de dados TITANIC.ipynb)
 
 No ultimo modelo foi adicionado os dados referentes aos nomes dos tripulantes. Acredita-se que os "Titulos" nos nomes (Ex: "Mrs.", "Miss.", "Mr.", etc) possam influenciar nos pontos estrategicos de sobrevivencia. Para uma melhor previsão é crucial o uso dos dados de cabine, onde os tripulantes se hospedaram no navio, porém muitos desses dados estão nulos no DataSet, então é necessario um estudo sobre as cabines do navio para se realizar um preenchimento o mais proximo possivel do correto desses dados.
 
